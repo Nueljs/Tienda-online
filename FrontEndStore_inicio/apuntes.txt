@@ -1,0 +1,20 @@
+ 1. Añadir Normalize.css para que se vea bien en varios navegadores.
+ 2. Usamos Google Fonts para añadri la fuente que queramos.
+ 
+
+
+
+
+
+
+
+
+
+
+
+ Atajos: 
+ - Shift + alt: me duplica la linea hacia abajo
+ -a*2 te crea dos enlaces
+ - crtl + d y seleccionar para seleccionar varias cosas
+ - si tengo el alt presionado y voy pinchando puedo poner varios cursores 
+ 
